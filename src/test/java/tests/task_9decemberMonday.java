@@ -9,4 +9,8 @@ public class task_9decemberMonday {
   
   }
 
+  public void hi(){
+      System.out.println("Hi from intelliJ");
+  }
+
 }
