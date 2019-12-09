@@ -6,7 +6,10 @@ public class task_9decemberMonday {
   
     System.out.println("Hello world");
     //this line is adding from gitHub, see you in IntelliJ
+  }
   
+  pblic String hello(){
+    return "Hello from GitHub";
   }
 
 }
